@@ -58,6 +58,7 @@ function colorBG(a) {
             {
                 secColor.style.backgroundColor = "orange";
                 closeMenu();
+                
             }
             if (a=="p")
             {
